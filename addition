@@ -5,4 +5,5 @@ void main()
    a=20,b=30;
    c=a+b;
    printf("Addition of two numbers",+c);
+   return 0;
 }
